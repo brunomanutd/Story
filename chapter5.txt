@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I hope this works,need to finish this quickly.
+=======
+I hope this works,need to finish this quickly,really very quickly.
+>>>>>>> alien-plot
